@@ -1230,4 +1230,8 @@
     <!-- Volume haptic feedback -->
     <string name="volume_panel_haptic_feedback_title">Volume haptic feedback</string>
     <string name="volume_panel_haptic_feedback_summary">Enable volume haptic feedback when adjust volume</string>
+
+    <!-- QS Transparency -->
+    <string name="qs_transparency_title">Background transparency</string>
+    <string name="qs_transparency_summary">Set transparency level for QS background</string>
 </resources>
